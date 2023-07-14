@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Connelblaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=connelevalsam&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=connelevalsam&repo=github-readme-stats)](https://github.com/connelevalsam/job-position)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=connelevalsam&repo=job-position)](https://github.com/connelevalsam/job-position)
 
 <!--
 **connelevalsam/connelevalsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
